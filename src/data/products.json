@@ -1,0 +1,212 @@
+[
+  {
+    "id": "abc123",
+    "status": "ACTIVE",
+    "title": "Canon DSLR Camera",
+    "description": "Well-maintained camera, ideal for events",
+    "condition": "Good",
+    "pricing": {
+      "price": 1200,
+      "currency": "INR",
+      "rentalDurations": ["1_DAY", "3_DAYS", "7_DAYS"]
+    },
+    "availability": {
+      "from": "2025-01-10",
+      "to": "2025-02-10",
+      "isExpired": false
+    },
+    "location": {
+      "city": "Kochi",
+      "distanceKm": 4.2
+    }
+  },
+  {
+    "id": "def456",
+    "status": "ACTIVE",
+    "title": "Hero Splendor Bike",
+    "description": "Reliable daily commuter, low mileage",
+    "condition": "Excellent",
+    "pricing": {
+      "price": 350,
+      "currency": "INR",
+      "rentalDurations": ["1_DAY", "7_DAYS"]
+    },
+    "availability": {
+      "from": "2025-01-05",
+      "to": "2025-03-01",
+      "isExpired": false
+    },
+    "location": {
+      "city": "Kollam",
+      "distanceKm": 2.5
+    }
+  },
+  {
+    "id": "ghi789",
+    "status": "ACTIVE",
+    "title": "Football",
+    "description": "Standard size, barely used, great for practice",
+    "condition": "Like New",
+    "pricing": {
+      "price": 100,
+      "currency": "INR",
+      "rentalDurations": ["1_DAY", "3_DAYS"]
+    },
+    "availability": {
+      "from": "2025-01-15",
+      "to": "2025-02-28",
+      "isExpired": false
+    },
+    "location": {
+      "city": "Alappuzha",
+      "distanceKm": 6.1
+    }
+  },
+  {
+    "id": "jkl012",
+    "status": "ACTIVE",
+    "title": "2BHK Apartment",
+    "description": "Spacious, fully furnished, near metro",
+    "condition": "Good",
+    "pricing": {
+      "price": 8500,
+      "currency": "INR",
+      "rentalDurations": ["7_DAYS", "30_DAYS"]
+    },
+    "availability": {
+      "from": "2025-01-20",
+      "to": "2025-04-01",
+      "isExpired": false
+    },
+    "location": {
+      "city": "Trivandrum",
+      "distanceKm": 1.8
+    }
+  },
+  {
+    "id": "mno345",
+    "status": "ACTIVE",
+    "title": "MacBook Pro 2020",
+    "description": "Perfect for work and study, includes charger",
+    "condition": "Excellent",
+    "pricing": {
+      "price": 2200,
+      "currency": "INR",
+      "rentalDurations": ["1_DAY", "7_DAYS"]
+    },
+    "availability": {
+      "from": "2025-01-12",
+      "to": "2025-03-15",
+      "isExpired": false
+    },
+    "location": {
+      "city": "Kottayam",
+      "distanceKm": 3.7
+    }
+  },
+  {
+    "id": "pqr678",
+    "status": "ACTIVE",
+    "title": "Book: Atomic Habits",
+    "description": "Bestseller, self-help, paperback",
+    "condition": "Like New",
+    "pricing": {
+      "price": 40,
+      "currency": "INR",
+      "rentalDurations": ["7_DAYS"]
+    },
+    "availability": {
+      "from": "2025-01-01",
+      "to": "2025-02-01",
+      "isExpired": false
+    },
+    "location": {
+      "city": "Pathanamthitta",
+      "distanceKm": 8.0
+    }
+  },
+  {
+    "id": "stu901",
+    "status": "ACTIVE",
+    "title": "Sony Bluetooth Speaker",
+    "description": "Portable, waterproof, long battery life",
+    "condition": "Good",
+    "pricing": {
+      "price": 150,
+      "currency": "INR",
+      "rentalDurations": ["1_DAY", "3_DAYS", "7_DAYS"]
+    },
+    "availability": {
+      "from": "2025-01-18",
+      "to": "2025-02-20",
+      "isExpired": false
+    },
+    "location": {
+      "city": "Kochi",
+      "distanceKm": 5.5
+    }
+  },
+  {
+    "id": "vwx234",
+    "status": "ACTIVE",
+    "title": "Mountain Bicycle",
+    "description": "21-speed, recently serviced, helmet included",
+    "condition": "Good",
+    "pricing": {
+      "price": 300,
+      "currency": "INR",
+      "rentalDurations": ["1_DAY", "3_DAYS", "7_DAYS"]
+    },
+    "availability": {
+      "from": "2025-01-08",
+      "to": "2025-02-28",
+      "isExpired": false
+    },
+    "location": {
+      "city": "Kollam",
+      "distanceKm": 2.0
+    }
+  },
+  {
+    "id": "yzb567",
+    "status": "ACTIVE",
+    "title": "Cricket Bat",
+    "description": "English willow, lightly used, great grip",
+    "condition": "Excellent",
+    "pricing": {
+      "price": 120,
+      "currency": "INR",
+      "rentalDurations": ["1_DAY", "3_DAYS"]
+    },
+    "availability": {
+      "from": "2025-01-11",
+      "to": "2025-03-01",
+      "isExpired": false
+    },
+    "location": {
+      "city": "Alappuzha",
+      "distanceKm": 7.3
+    }
+  },
+  {
+    "id": "cde890",
+    "status": "ACTIVE",
+    "title": "GoPro Hero 9",
+    "description": "Action camera, waterproof, 4K video",
+    "condition": "Good",
+    "pricing": {
+      "price": 900,
+      "currency": "INR",
+      "rentalDurations": ["1_DAY", "3_DAYS", "7_DAYS"]
+    },
+    "availability": {
+      "from": "2025-01-09",
+      "to": "2025-02-25",
+      "isExpired": false
+    },
+    "location": {
+      "city": "Kochi",
+      "distanceKm": 3.1
+    }
+  }
+]

@@ -2,6 +2,7 @@ import React from 'react';
 import { View, Text, TextInput, StyleSheet, TouchableOpacity, Platform, Image } from 'react-native';
 import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
 import CategoryGrid from './CategoryGrid';
+import ProductList from './ProductList';
 
 export default function PublicHomeScreen() {
   return (
@@ -33,6 +34,7 @@ export default function PublicHomeScreen() {
         </View>
 
         <CategoryGrid />
+        <ProductList />
       </View>
       {/* Footer Navigation */}
       <View style={styles.footer}>

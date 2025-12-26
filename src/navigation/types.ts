@@ -17,4 +17,5 @@ export type RootStackParamList = {
   ChangeMobile: undefined;
   PhotoUpdate: undefined;
   CommunicationPreferences: undefined;
+  ProductDetails: { productId: string };
 };

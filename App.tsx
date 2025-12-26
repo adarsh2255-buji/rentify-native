@@ -149,6 +149,7 @@ function App(): React.JSX.Element {
             <Stack.Screen name="ForgotPassword" component={ForgotPasswordScreen} />
             <Stack.Screen name="ResetPassword" component={ResetPasswordScreen} />
             <Stack.Screen name="ProfileOverview" component={ProfileOverviewScreen} />
+            <Stack.Screen name="ProductDetails" component={require('./src/screens/ProductDetailsScreen').default} />
           </Stack.Navigator>
         </SafeAreaView>
         <_KycEnforcer />
